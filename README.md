@@ -1,4 +1,6 @@
-# Claude Code (Research Preview)
+# Claude Code (Research Preview) - 0.2.8 with extracted source maps
+
+# NOTE: I'm not working on this repo, just posting for educational purposes
 
 ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square)
 
