@@ -1,0 +1,4 @@
+- get the sourcemap from cli.mjs
+    - get base64 source map file
+    - base64 decode source map file
+- 
