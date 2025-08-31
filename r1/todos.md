@@ -1,4 +1,6 @@
-- get the sourcemap from cli.mjs
-    - get base64 source map file
-    - base64 decode source map file
-- 
+- [x] get the sourcemap from cli.mjs
+    - [x] get base64 source map file
+    - [x] base64 decode source map file
+- [x] reverse sourcemap to codes
+    - [x] install cli tool
+    - [x] reverse codes
