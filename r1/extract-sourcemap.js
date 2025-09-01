@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const content = fs.readFileSync('../cli.mjs', 'utf8');
 
-if (content.length == 0) {
+if (content.length === 0) {
     console.log('read content failed');
     return;
 }
