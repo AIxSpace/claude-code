@@ -1,0 +1,85 @@
+{
+  "collapsed": false,
+  "color": "cyan",
+  "id": 1901017624,
+  "shared": false,
+  "title": "react-ink",
+  "windowId": 1231457547,
+  "tabs": [
+    {
+      "active": false,
+      "audible": false,
+      "autoDiscardable": true,
+      "discarded": false,
+      "favIconUrl": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+      "frozen": false,
+      "groupId": 1901017624,
+      "height": 1006,
+      "highlighted": false,
+      "id": 1231457548,
+      "incognito": false,
+      "index": 0,
+      "lastAccessed": 1756766271237.732,
+      "mutedInfo": {
+        "muted": false
+      },
+      "pinned": false,
+      "selected": false,
+      "status": "complete",
+      "title": "react ink - Google 搜索",
+      "url": "https://www.google.com/search?q=react+ink&newwindow=1&sca_esv=7a86b5436430bbb9&sxsrf=AE3TifMj_zhDM_YzlrTN236VfOmGkGjfZg%3A1756758650701&source=hp&ei=egK2aIutKOy5kPIPq4WHyAM&iflsig=AOw8s4IAAAAAaLYQig6bsRXwuNJ6h00W2Y1r7h4Oma1s&ved=0ahUKEwiL0tD6s7iPAxXsHEQIHavCATkQ4dUDCCk&uact=5&oq=react+ink&gs_lp=Egdnd3Mtd2l6IglyZWFjdCBpbmsyBBAjGCcyBBAjGCcyBBAjGCcyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyChAAGIAEGAoYywEyBRAAGIAEMgUQABiABDIEEAAYHkjQDVAAWKcLcAB4AJABAJgBiAKgAfgQqgEDMi05uAEDyAEA-AEBmAIJoAKPEcICChAjGIAEGCcYigXCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEC4YgAQYywGYAwCSBwMyLTmgB_ZEsgcDMi05uAePEcIHBTEuNy4xyAcR&sclient=gws-wiz",
+      "width": 2048,
+      "windowId": 1231457547
+    },
+    {
+      "active": false,
+      "audible": false,
+      "autoDiscardable": true,
+      "discarded": false,
+      "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+      "frozen": false,
+      "groupId": 1901017624,
+      "height": 1006,
+      "highlighted": false,
+      "id": 1231457552,
+      "incognito": false,
+      "index": 1,
+      "lastAccessed": 1756766211748.375,
+      "mutedInfo": {
+        "muted": false
+      },
+      "pinned": false,
+      "selected": false,
+      "status": "complete",
+      "title": "vadimdemedes/ink: 🌈 React for interactive command-line apps",
+      "url": "https://github.com/vadimdemedes/ink?tab=readme-ov-file",
+      "width": 2048,
+      "windowId": 1231457547
+    },
+    {
+      "active": false,
+      "audible": false,
+      "autoDiscardable": true,
+      "discarded": false,
+      "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+      "frozen": false,
+      "groupId": 1901017624,
+      "height": 1006,
+      "highlighted": false,
+      "id": 1231457570,
+      "incognito": false,
+      "index": 2,
+      "lastAccessed": 1756766270354.25,
+      "mutedInfo": {
+        "muted": false
+      },
+      "pinned": false,
+      "selected": false,
+      "status": "complete",
+      "title": "ink/src/render.ts at master · vadimdemedes/ink",
+      "url": "https://github.com/vadimdemedes/ink/blob/master/src/render.ts",
+      "width": 2048,
+      "windowId": 1231457547
+    }
+  ]
+}
