@@ -4,3 +4,7 @@
 - [x] reverse sourcemap to codes
     - [x] install cli tool
     - [x] reverse codes
+- [ ] make it run
+    - [ ] create package.json
+    - [ ] create react-ink project
+    - [ ] debug it
